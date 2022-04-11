@@ -11,5 +11,7 @@ data class Posts(
     var title : String,
     @SerializedName("body")
     var body : String
+
+
 )
 
